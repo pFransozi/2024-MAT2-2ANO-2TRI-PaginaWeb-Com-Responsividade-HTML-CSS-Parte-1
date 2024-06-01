@@ -67,9 +67,9 @@
                         alt="Livro sobre liderança em design design da alura books" /></div>
                 <div class="swiper-slide"><img src="img/Javascript.svg"
                         alt="Livro sobre javascript assertivo da alura books" /></div>
-                <div class="swiper-slide"><img src="Guia Front-end.svg" alt="Livro Guia front end" /></div>
-                <div class="swiper-slide"><img src="Portugol.svg" alt="Livro sobre portugol" /></div>
-                <div class="swiper-slide"><img src="Acessibilidade.svg" alt="livro sobre acessibilidade" /></div>
+                <div class="swiper-slide"><img src="img/Guia Front-end.svg" alt="Livro Guia front end" /></div>
+                <div class="swiper-slide"><img src="img/Portugol.svg" alt="Livro sobre portugol" /></div>
+                <div class="swiper-slide"><img src="img/Acessibilidade.svg" alt="livro sobre acessibilidade" /></div>
 
             </div>
             <!-- If we need pagination -->
@@ -80,11 +80,21 @@
             <div class="swiper-button-next"></div>
 
             <!-- If we need scrollbar -->
-            <div class="swiper-scrollbar"></div>
+            <!-- <div class="swiper-scrollbar"></div> -->
         </div>
 
     </section>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper(".swiper", {
+            spaceBetween: 10,
+            slidesPerView: 3,
+            pagination: {
+                el: ".swiper-pagination",
+                type: "bullets",
+            },
+        });
+    </script>
 </body>
 
 </html>

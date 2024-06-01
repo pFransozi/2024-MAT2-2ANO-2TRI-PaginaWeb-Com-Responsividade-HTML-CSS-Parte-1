@@ -48,6 +48,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Inserir estilo ao título da seção, através do novo arquivo ```carrossel.CSS```;
    3. Utilizar a ferramenta SwiperJS para integrar o código de um carrossel responsivo;
    4. Adicionar imagens dos livros ao carrossel para exibição.
+* **Aula 09**
+   1. Ajustar imagens do carrossel, corrigindo a exibição com a ferramenta SwiperJS;
+   2. Corrigir a disposição dos livros no arquivo HTML adicionando o diretório das imagens corretamente;
+   3. Remover as setas de navegação do carrossel para uma visualização mais limpa;
+   4. Adicionar a paginação, mostrando bolinhas indicadoras da página atual do carrossel;
+   5. Remover a barra de rolagem, para uma aparência mais elegante no projeto.
 
 
 ## Links
