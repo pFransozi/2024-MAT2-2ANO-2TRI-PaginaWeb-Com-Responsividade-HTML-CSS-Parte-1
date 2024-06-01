@@ -29,6 +29,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    3. Ocultar a lista inicialmente, definindo a propriedade ```display: none;```.
    4. Exibir a lista quando clicamos no menu, implementando a regra CSS ```:checked```.
    5. Corrigir o posicionamento da lista, utilizando as propriedades ```position``` e ```top```.
+* **Aula 05**
+   1. Estilizar o menu hambúrguer para melhorar sua aparência e usabilidade;
+   2. Personalizar os itens da lista, inserindo um gradiente com a propriedade CSS ```linear-gradient```;
+   3. Criar mais variáveis de cor no :root para facilitar a manutenção e modificação do estilo;
+   4. Ajustar o espaçamento do menu, utilizando a propriedade ```padding```.
+
 
 
 ## Links
