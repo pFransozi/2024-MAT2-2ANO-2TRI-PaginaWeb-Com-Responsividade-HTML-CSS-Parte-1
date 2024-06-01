@@ -2,6 +2,8 @@
 @import url(banner.css);
 @import url(carrossel.css);
 @import url(topicos.css);
+@import url(contato.css);
+@import url(rodapé.css);
 /* O root é responsável por armazenar variáveis 
 personalizadas, facilitando 
 a manutenção do código. */

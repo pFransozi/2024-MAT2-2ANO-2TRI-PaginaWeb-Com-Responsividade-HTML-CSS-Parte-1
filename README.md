@@ -64,6 +64,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Adicionar tópicos relevantes, cada um com um link a correspondente;
    3. Desenvolver estilos CSS, incluindo cores de fundo, alinhamento de texto e espaçamento entre elementos;
    4. Determinar uma quebra de texto, utilizando a propriedade CSS ```flex-wrap```.
+* **Aula 12**
+   1. Criar a seção de contato, adicionando elementos HTML como título, texto e campo de email;
+   2. Estilizar a seção de contato, determinando cores de fundo, tamanho de fonte e espaçamento;
+   3. Adicionar o rodapé no final da página HTML, utilizando um divisor hr e a tag footer;
+   4. Aplicamos estilos CSS ao rodapé, ajustando a cor de fundo e o espaçamento;
+   5. Finalizar a implementação do layout mobile, salvando os arquivos no VS Code.
 
 
 
@@ -75,3 +81,5 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
 * [Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox?_gl=1*15je8fx*_ga*OTg1ODEyMDA0LjE3MTcxODYwMzE.*_ga_1EPWSW3PCS*MTcxNzE5NjE0Ni4yLjEuMTcxNzE5NzU1Ny4wLjAuMA..*_fplc*bnB5SEF4djVFMFoyOThQOHd4eWYlMkJSbTEya05aMXlRTVJ3VE9ySkRKZk5iTHkwZHNKQm1ESXFMbmtiZnB5b1dCJTJGNGVXRjdsQVNZVzdSTFA5UUpiZWI1V3V2a2FtWHBCeTdOVXlHeHU3OGFnY05MJTJGRWxxTGFxOXJCZFduMFZRJTNEJTNE)
 * [CSS FlexBox: Dicas para começar](https://cursos.alura.com.br/extra/alura-mais/css-flexbox-dicas-para-comecar-c301)
 * [Entenda a propriedade position CSS](https://www.alura.com.br/artigos/entenda-a-propriedade-position-css?_gl=1*s6n2pb*_ga*OTg1ODEyMDA0LjE3MTcxODYwMzE.*_ga_1EPWSW3PCS*MTcxNzE5NjE0Ni4yLjEuMTcxNzE5NzU1Ny4wLjAuMA..*_fplc*bnB5SEF4djVFMFoyOThQOHd4eWYlMkJSbTEya05aMXlRTVJ3VE9ySkRKZk5iTHkwZHNKQm1ESXFMbmtiZnB5b1dCJTJGNGVXRjdsQVNZVzdSTFA5UUpiZWI1V3V2a2FtWHBCeTdOVXlHeHU3OGFnY05MJTJGRWxxTGFxOXJCZFduMFZRJTNEJTNE)
+* [Elementos block-level]([https://](https://developer.mozilla.org/pt-BR/docs/Glossary/Block-level_content))
+* [O que é o HTML e suas tags? Parte 3: elementos block-level](https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=gnarus&utm_medium=timeline&_gl=1*1gx8pkv*_ga*MTIzNDQxOTM3Ny4xNzE3MTc1NzEx*_ga_1EPWSW3PCS*MTcxNzI2ODg4Mi42LjEuMTcxNzI3NDI0OS4wLjAuMA..)
