@@ -8,7 +8,7 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
 ## Rúbricas
 
 * **Aula 01**
-   1. Analisar os protótipos disponíveis para o projeto, entendendo a disposição dos elementos em relação ao tamanho da tela. Comparar os layouts mobile e tablet;
+   1. Analisar os protótipos disponíveis para o projeto, entendendo a disposição dos elementos em relação ao tamanho da tela. Comparar os layouts mobile e tablet.
 * **Aula 02**
    1. Criar os arquivos do projeto: index.html e style.css;
    2. Adicionar a estrutura HTML básica:
@@ -16,7 +16,7 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
         * metadados: ```charset, viewport```;
    3.Criar a propriedade ```:root``` no style.css, para variáveis personalizadas;
    4. Criar reset.css para resetar as configurações utilizando exemplo [Reset CSS: O que é, Exemplos, Como Criar e Utilizar](#links);
-   5. Criar o cabeçalho da página com os items: menu hamburger, meus favoritos, carrinho de compras, meu perfil;
+   5. Criar o cabeçalho da página com os items: menu hamburger, meus favoritos, carrinho de compras, meu perfil.
 * **Aula 03**
    1. Usar a tag ```header``` com as informações do cabeçalho;
    2. Usar a tag ```img```;
@@ -26,8 +26,8 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
 * **Aula 04**
    1. Estruturar um menu hambúrguer utilizando tags como ```<input>```, ```<label>```, ```<ul>```, e ```<li>```;
    2. Criar uma lista de opções do menu, definindo suas classes e atributos;
-   3. Ocultar a lista inicialmente, definindo a propriedade ```display: none;```.
-   4. Exibir a lista quando clicamos no menu, implementando a regra CSS ```:checked```.
+   3. Ocultar a lista inicialmente, definindo a propriedade ```display: none;```;
+   4. Exibir a lista quando clicamos no menu, implementando a regra CSS ```:checked```;
    5. Corrigir o posicionamento da lista, utilizando as propriedades ```position``` e ```top```.
 * **Aula 05**
    1. Estilizar o menu hambúrguer para melhorar sua aparência e usabilidade;
@@ -38,7 +38,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    1. Identificar e comparar diferentes tipografias, observando detalhes como serifa, peso e estilo;
    2. Baixar e incorporar uma fonte externa ao projeto, utilizando o Google Fonts;
    3. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```;
-   4. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```;
+   4. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```.
+* **Aula 07**
+   1. Criar a estrutura HTML para um banner, utilizando as tags ```<section>```, ```<h2>```, ```<p>```, e ```<input>```;
+   2. Determinar um **padrão de classes** aos elementos, para identificá-los dentro da mesma seção de conteúdo;
+   3. Estilizar o banner usando CSS, ajustando propriedades de cor, texto, espaçamentos e fundo da tela;
+   4. Adicionar estilos a um campo de texto, utilizando o seletor de pseudo-classe ```::placeholder```.
 
 
 
