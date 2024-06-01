@@ -54,6 +54,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    3. Remover as setas de navegação do carrossel para uma visualização mais limpa;
    4. Adicionar a paginação, mostrando bolinhas indicadoras da página atual do carrossel;
    5. Remover a barra de rolagem, para uma aparência mais elegante no projeto.
+* **Aula 10**
+   1. Criar um card no HTML, estruturando-o com tags como ```div```, ```img``` e ```a```;
+   2. Organizar cada divisão do HTML por classes e selecioná-las separadamente no arquivo CSS;
+   3. Estilizar os textos e botões do card, definindo cores, tamanhos e pesos das fontes com CSS;
+   4. Posicionar corretamente os elementos, utilizando propriedades como ```display: flex;``` e ```justify-content```.
+
 
 
 ## Links
