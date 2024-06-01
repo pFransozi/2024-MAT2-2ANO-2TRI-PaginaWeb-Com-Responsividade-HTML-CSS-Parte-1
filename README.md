@@ -43,12 +43,16 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Determinar um **padrão de classes** aos elementos, para identificá-los dentro da mesma seção de conteúdo;
    3. Estilizar o banner usando CSS, ajustando propriedades de cor, texto, espaçamentos e fundo da tela;
    4. Adicionar estilos a um campo de texto, utilizando o seletor de pseudo-classe ```::placeholder```.
-
+* **Aula 08**
+   1. Adicionar uma seção de carrossel ao projeto para exibir os novos lançamentos;
+   2. Inserir estilo ao título da seção, através do novo arquivo ```carrossel.CSS```;
+   3. Utilizar a ferramenta SwiperJS para integrar o código de um carrossel responsivo;
+   4. Adicionar imagens dos livros ao carrossel para exibição.
 
 
 ## Links
 
-* Protótipo de alta fidelidade em três versões pode ser encotrando [aqui]([https://](https://www.figma.com/community/file/1349471036706928943));
+* Protótipo de alta fidelidade em três versões pode ser encotrando [aqui](https://www.figma.com/community/file/1349471036706928943);
 * [O que é o HTML e suas tags? Parte 1: estrutura básica](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?_gl=1*tf3i4g*_ga*OTg1ODEyMDA0LjE3MTcxODYwMzE.*_ga_1EPWSW3PCS*MTcxNzE4NjAzMi4xLjEuMTcxNzE5MDMyOC4wLjAuMA..*_fplc*bnB5SEF4djVFMFoyOThQOHd4eWYlMkJSbTEya05aMXlRTVJ3VE9ySkRKZk5iTHkwZHNKQm1ESXFMbmtiZnB5b1dCJTJGNGVXRjdsQVNZVzdSTFA5UUpiZWI1V3V2a2FtWHBCeTdOVXlHeHU3OGFnY05MJTJGRWxxTGFxOXJCZFduMFZRJTNEJTNE);
 * [Reset CSS: O que é, Exemplos, Como Criar e Utilizar](https://www.alura.com.br/artigos/o-que-e-reset-css?_gl=1*14y0iuy*_ga*OTg1ODEyMDA0LjE3MTcxODYwMzE.*_ga_1EPWSW3PCS*MTcxNzE4NjAzMi4xLjEuMTcxNzE5MDMyOC4wLjAuMA..*_fplc*bnB5SEF4djVFMFoyOThQOHd4eWYlMkJSbTEya05aMXlRTVJ3VE9ySkRKZk5iTHkwZHNKQm1ESXFMbmtiZnB5b1dCJTJGNGVXRjdsQVNZVzdSTFA5UUpiZWI1V3V2a2FtWHBCeTdOVXlHeHU3OGFnY05MJTJGRWxxTGFxOXJCZFduMFZRJTNEJTNE);
 * [Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox?_gl=1*15je8fx*_ga*OTg1ODEyMDA0LjE3MTcxODYwMzE.*_ga_1EPWSW3PCS*MTcxNzE5NjE0Ni4yLjEuMTcxNzE5NzU1Ny4wLjAuMA..*_fplc*bnB5SEF4djVFMFoyOThQOHd4eWYlMkJSbTEya05aMXlRTVJ3VE9ySkRKZk5iTHkwZHNKQm1ESXFMbmtiZnB5b1dCJTJGNGVXRjdsQVNZVzdSTFA5UUpiZWI1V3V2a2FtWHBCeTdOVXlHeHU3OGFnY05MJTJGRWxxTGFxOXJCZFduMFZRJTNEJTNE)
