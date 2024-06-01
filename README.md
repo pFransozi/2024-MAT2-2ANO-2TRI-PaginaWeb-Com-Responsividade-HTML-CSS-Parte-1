@@ -34,6 +34,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Personalizar os itens da lista, inserindo um gradiente com a propriedade CSS ```linear-gradient```;
    3. Criar mais variáveis de cor no :root para facilitar a manutenção e modificação do estilo;
    4. Ajustar o espaçamento do menu, utilizando a propriedade ```padding```.
+* **Aula 06**
+   1. Identificar e comparar diferentes tipografias, observando detalhes como serifa, peso e estilo;
+   2. Baixar e incorporar uma fonte externa ao projeto, utilizando o Google Fonts;
+   3. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```;
+   4. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```;
 
 
 
