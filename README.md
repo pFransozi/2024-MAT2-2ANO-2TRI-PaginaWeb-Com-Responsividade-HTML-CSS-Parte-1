@@ -23,6 +23,12 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    3. Criar um novo arquivo ```header.css``` para estilizar o conteúdo da tag ```header```;
    4. Criar dois ```div``` com ```class``` ```conteiner```. Um contendo o menu hamburger, outro contendo os demais items;
    5. Modificar a classe div para flex container com as propriedades display, justify-content e align-items.
+* **Aula 04**
+   1. Estruturar um menu hambúrguer utilizando tags como ```<input>```, ```<label>```, ```<ul>```, e ```<li>```;
+   2. Criar uma lista de opções do menu, definindo suas classes e atributos;
+   3. Ocultar a lista inicialmente, definindo a propriedade ```display: none;```.
+   4. Exibir a lista quando clicamos no menu, implementando a regra CSS ```:checked```.
+   5. Corrigir o posicionamento da lista, utilizando as propriedades ```position``` e ```top```.
 
 
 ## Links
