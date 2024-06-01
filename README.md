@@ -38,7 +38,6 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    1. Identificar e comparar diferentes tipografias, observando detalhes como serifa, peso e estilo;
    2. Baixar e incorporar uma fonte externa ao projeto, utilizando o Google Fonts;
    3. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```;
-   4. Aplicar a nova fonte no projeto, definindo propriedades como ```font-family```, ```font-size``` e ```font-weight```.
 * **Aula 07**
    1. Criar a estrutura HTML para um banner, utilizando as tags ```<section>```, ```<h2>```, ```<p>```, e ```<input>```;
    2. Determinar um **padrão de classes** aos elementos, para identificá-los dentro da mesma seção de conteúdo;
