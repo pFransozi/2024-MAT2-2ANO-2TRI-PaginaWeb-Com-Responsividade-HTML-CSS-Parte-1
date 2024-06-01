@@ -59,6 +59,11 @@ Projeto realizado junto ao 2 ano do EM na disciplina de Matemática II baseado n
    2. Organizar cada divisão do HTML por classes e selecioná-las separadamente no arquivo CSS;
    3. Estilizar os textos e botões do card, definindo cores, tamanhos e pesos das fontes com CSS;
    4. Posicionar corretamente os elementos, utilizando propriedades como ```display: flex;``` e ```justify-content```.
+* **Aula 11**
+   1. Estruturar a seção "Tópicos Visitados Recentemente", utilizando tags como ```h2```, ```ul``` e ```li```;
+   2. Adicionar tópicos relevantes, cada um com um link a correspondente;
+   3. Desenvolver estilos CSS, incluindo cores de fundo, alinhamento de texto e espaçamento entre elementos;
+   4. Determinar uma quebra de texto, utilizando a propriedade CSS ```flex-wrap```.
 
 
 
