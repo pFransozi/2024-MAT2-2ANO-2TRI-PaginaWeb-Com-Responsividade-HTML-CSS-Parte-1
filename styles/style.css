@@ -5,8 +5,13 @@ a manutenção do código. */
 
 :root {
     --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
 
 body {
     background-color: var(--cor-de-fundo);
+}
+
+.cabeçalho{
+    background-color: var(--branco);
 }
